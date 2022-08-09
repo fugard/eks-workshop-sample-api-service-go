@@ -28,6 +28,8 @@ spec:
     metadata:
       labels:
         app: hello-k8s
+
+        hhsjd
     spec:
       containers:
         - name: hello-k8s
